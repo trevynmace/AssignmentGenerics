@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.exe.config
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.exe
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.pdb
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.exe
+C:\Users\tmace\Documents\csis2530\assignments\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.pdb
